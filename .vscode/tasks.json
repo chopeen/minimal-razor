@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/last-fm-not-mine-alert-razor.csproj"
+                "${workspaceFolder}/minimal_razor.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
