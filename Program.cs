@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace last_fm_not_mine_alert_razor
+namespace minimal_razor
 {
     public class Program
     {

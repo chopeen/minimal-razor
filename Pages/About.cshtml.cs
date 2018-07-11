@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace last_fm_not_mine_alert_razor.Pages
+namespace minimal_razor.Pages
 {
     public class AboutModel : PageModel
     {
@@ -12,7 +12,7 @@ namespace last_fm_not_mine_alert_razor.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "Application description page.";
         }
     }
 }

@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace last_fm_not_mine_alert_razor
+namespace minimal_razor
 {
     public class Startup
     {
