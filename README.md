@@ -10,6 +10,6 @@ https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-webapp-u
   1. Explain why a stripped-down template was created and how it was done
    - commands
    - dotnet version
-   - contents (2 pages + shared layout + error page + ...)
+   - contents (1 page + layout + error page + ...)
    - screenshot
   1. Add information about publishing to Azure
