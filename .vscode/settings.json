@@ -1,0 +1,9 @@
+{
+    "todo-tree.flat": true,
+    "workbench.colorTheme": "Default Light+",
+    "files.autoSave": "onFocusChange",
+    "editor.minimap.enabled": false,
+    "git.autofetch": true,
+    // "No of references" hint
+    "csharp.referencesCodeLens.enabled": false
+}
