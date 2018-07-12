@@ -1,5 +1,9 @@
 # Minimal ASP.NET Core Web App (Razor Pages) template
 
+This template consists of a single content page (`Index`) with layout and error pages. For information
+about the remaining pages and code files, see the article 
+[Get started with Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-2.1#project-files-and-folders).
+
 ## Background
 
 I needed to create a basic Web application - a single page with a few controls and an API call. 
@@ -34,12 +38,6 @@ I looked for unimportant elements, removed them and then removed unreferenced pi
 - most of CSS styling
 
 I kept the directory structure inside `wwwroot`.
-
-## Result
-
-The resulting minimal template consists of a single content page (`Index`) with layout and error pages. For information
-about the remaining files, see the article 
-[Get started with Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-2.1#project-files-and-folders).
 
 ## Links
 
