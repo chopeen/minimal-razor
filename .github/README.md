@@ -61,7 +61,7 @@ I kept the directory structure inside `wwwroot`.
 
 ## TODO
   1. Rename the repository
-  1. Add tags, description, etc
+  1. ~~Add tags, description, etc~~
   1. ~~Explain why a stripped-down template was created and how it was done~~
    - ~~commands~~
    - ~~dotnet version~~
