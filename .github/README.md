@@ -4,6 +4,8 @@ This template consists of a single content page (`Index`) with layout and error 
 about the remaining pages and code files, see the article 
 [Get started with Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-2.1#project-files-and-folders).
 
+![Minimal template deployed to Azure](screenshot.png)
+
 ## Background
 
 I needed to create a basic Web application - a single page with a few controls and an API call. 
