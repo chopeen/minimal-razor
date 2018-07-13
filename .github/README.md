@@ -19,7 +19,7 @@ I read about Razor Pages a few times recently, I decided to use .NET Core for th
 ## New project
 
 I installed .NET Core SDK (v2.1.301), executed `dotnet new razor` and saw a new project that was way more complex
-than I expected. You can check the [inital import](/tree/a2e71aec1537bc803707a1eded2013a1c6d8eed4) [TODO: fix the relative link!] to see what 
+than I expected. You can check the inital import a2e71aec1537bc803707a1eded2013a1c6d8eed4 to see what 
 I mean - I was needed a simple scaffolding and got a full-blown application.
 
 I looked for a `dotnet new razor` option to generate a more basic project, but - finding none - I decided to strip
