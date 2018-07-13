@@ -13,7 +13,7 @@ namespace minimal_razor.Pages
 
         public void OnGet()
         {
-            Message = "Lorem Ipsum";
+            Message = "Template description";
         }
     }
 }
