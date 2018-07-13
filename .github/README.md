@@ -67,5 +67,5 @@ I kept the directory structure inside `wwwroot`.
    - ~~dotnet version~~
    - ~~contents (1 page + layout + error page + ...)~~
    - ~~screenshot~~
-  1. Once ready, replace _Lorem Ipsum_ with the above description
+  1. ~~Once ready, replace _Lorem Ipsum_ with the above description~~
   1. ~~Add information about publishing to Azure~~
