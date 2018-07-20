@@ -43,7 +43,7 @@ I looked for unimportant elements, removed them and the unreferenced pieces left
   - `Privacy` (along with some cookie consent code)
 - libraries:
   - Bootstrap
-  - jQuery 
+  - jQuery
 - images
 - most of CSS styling
 
@@ -51,8 +51,8 @@ I kept the directory structure inside `wwwroot`.
 
 ## Publishing to Azure
 
- Out of different deployment options available for Web apps, I picked *Local Git Repository* (local from the perspective
- of the app, i.e. repository in the Azure cloud). After the initial configuration, all I need to do is run 
- `git push azure master` on my computer and the latest version is deployed.
+ Out of different deployment options available for Web apps, I picked *Local Git Repository*. After the initial configuration, all I need to do is run
+ `git push azure master` on my computer and the latest version is deployed. Option *GitHub* is also trivial to configure and
+ later every time you push new code to the GitHub, it gets automatically deployed to Azure.
 
  For details, refer to the article [Publishing a Web Core app to Azure with CLI](https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-webapp-using-cli?view=aspnetcore-2.1&tabs=other).
