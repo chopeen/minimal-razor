@@ -1,15 +1,15 @@
 # Minimal ASP.NET Core Web App (Razor Pages) template
 
 This template consists of a single content page (`Index`) with layout and error pages. For information
-about the remaining pages and code files, see the article 
-[Get started with Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-2.1#project-files-and-folders) or the README file of
-[MiniRazor.Template](https://github.com/mlafleur/MiniRazor.Template#project-structure) (more about that repository below).
+about the remaining pages and code files, see the article
+[Get started with Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-2.1#project-files-and-folders)
+or the README file of [MiniRazor.Template](https://github.com/mlafleur/MiniRazor.Template#project-structure) (more about that repository below).
 
 ![Minimal template deployed to Azure](screenshot.png)
 
 ## Background
 
-I needed to create a basic Web application - a single page with a few controls and an API call. 
+I needed to create a basic Web application - a single page with a few controls and an API call.
 I enjoyed working with Azure Functions, the related [Core Tools](https://github.com/Azure/azure-functions-core-tools)
 package and VS Code, seemlessly switching between Windows and Ubuntu machines, so I decided to use .NET Core for the
 Web application. Razor Pages appeared on my radar a few times recently.
@@ -27,10 +27,10 @@ it down to a bare minimum manually. This is why this repository was created.
 During this reasearch, I somehow missed [MiniRazor.Template](https://github.com/mlafleur/MiniRazor.Template) that
 I highly recommend:
 
- - it allows to generate a NuGet package and install it locally,
- - the template includes [even fewer files](https://github.com/mlafleur/MiniRazor.Template/tree/master/content)
-   than mine,
- - the role of every file is [nicely explained](https://github.com/mlafleur/MiniRazor.Template#project-structure).
+- it allows to generate a NuGet package and install it locally,
+- the template includes [even fewer files](https://github.com/mlafleur/MiniRazor.Template/tree/master/content)
+  than mine,
+- the role of every file is [nicely explained](https://github.com/mlafleur/MiniRazor.Template#project-structure).
 
 ## The road to the minimal template
 
