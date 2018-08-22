@@ -9,6 +9,7 @@ using Microsoft.Extensions.Logging;
 
 namespace minimal_razor.Pages
 {
+    // TODO: Rename the page to reflect the fact is contains both config and logger
     public class PageWithConfig : PageModel
     {
         // injecting the configuration and logger into the model
