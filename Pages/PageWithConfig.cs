@@ -20,5 +20,21 @@ namespace minimal_razor.Pages
             this.Configuration = configuration;
             this.Logger = logger;
         }
+
+        public void OnGet()
+        {
+            this.Logger.LogInformation("Entered the `OnGet` function.");
+
+            try
+            {
+                // deliberate error to force an exception
+                int zero = 0;
+                int error = 1/zero;
+            }
+            catch (DivideByZeroException ex)
+            {
+                this.Logger.LogCritical(ex, "Division by 0 is still not possible.");
+            }
+        }
     }
 }
